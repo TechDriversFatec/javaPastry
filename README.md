@@ -7,5 +7,5 @@
 - Michel Rubens Ferreira da Silva (**Dev**)
 - Danilo Silva Lima (**Dev**)
 - Carlos Fernando de Souza (**PO**)
-- Alexandre da Silva Santos (**Scrum Master)
+- Alexandre da Silva Santos (**Scrum Master**)
 
