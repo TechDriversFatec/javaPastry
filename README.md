@@ -2,10 +2,10 @@
 
 ### Integrantes do grupo:
 
-- Guilherme de Agostin (**Dev**)
-- Gustavo de Castro Costa Silva (**Dev**)
-- Michel Rubens Ferreira da Silva (**Dev**)
-- Danilo Silva Lima (**Dev**)
-- Carlos Fernando de Souza (**PO**)
+- Guilherme de Agostin (**Developer**)
+- Gustavo de Castro Costa Silva (**Developer**)
+- Michel Rubens Ferreira da Silva (**Developer**)
+- Danilo Silva Lima (**Developer**)
+- Carlos Fernando de Souza (**Product Owner**)
 - Alexandre da Silva Santos (**Scrum Master**)
 
