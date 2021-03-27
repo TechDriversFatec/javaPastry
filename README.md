@@ -72,21 +72,26 @@ Nossa missão é desenvolver um sistema que faça a leitura dos dados baixados d
 
 ---
 
-### Sprint 01 -
+## Sprint 01 ✔️
 
-- Conforme  nosso entendimento em reunião com o cliente demonstraremos aqui através de um modelo inicial, pegando como exemplo o cadastro da área dos imóveis, demonstrando como ficarão esses dados após o tratamento e a organização executada pelo nosso sistema.
+### Estamos entregando:
 
-- Abaixo  demonstramos como é hoje, um arquivo por município/estado.
+- Conforme  nosso entendimento em reunião com o cliente, demonstraremos aqui através de um modelo inicial, pegando como exemplo o cadastro da área dos imóveis, visualizando esses dados após o tratamento e a organização executada pelo nosso sistema.
+
+- Abaixo  demonstramos como é hoje, um arquivo por município/estado:
 
 <p><img src="https://uploaddeimagens.com.br/images/003/155/275/full/Imagem2.png?1616872973" /></p>
 
-- Abaixo demonstraremos como ficarão os dados, após a importação de todos os arquivos da area do imóvel dentro de um único banco de dados organizados.|(Modelo inicial  para aprovação do entendimento)
+- Abaixo a visualização dos dados após a importação de todos os arquivos da área dos imóveis dentro de um único banco de dados, organizados:
 
 <p><img src="https://uploaddeimagens.com.br/images/003/155/277/full/Imagem3.png?1616873009" /></p>
 
-### Sprint 02 -
+**CARD 1️⃣**<p>
+<img src="https://uploaddeimagens.com.br/images/003/155/435/full/CARD1.png?1616880839" >
+
+## Sprint 02 -
 Em construção 🚧
-### Sprint 03 -
+## Sprint 03 -
 Em construção 🚧
-### Sprint 04 -
+## Sprint 04 -
 Em construção 🚧
