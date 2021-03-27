@@ -1,8 +1,6 @@
 
 # Projeto Integrador (Grupo 02)  - Visiona  
-<p align="center">
-<img src="https://uploaddeimagens.com.br/images/003/155/249/full/Integra_car.png?1616871928" >
-</p>
+<img src="https://uploaddeimagens.com.br/images/003/155/335/full/Imagem5.png?1616876472" >
 
 ## Nossa Missão:
 
