@@ -4,11 +4,11 @@
 <img src="https://uploaddeimagens.com.br/images/003/155/249/full/Integra_car.png?1616871928" >
 </p>
 
-"Uma breve descricao sobre o projeto:"
+## Uma breve descricao sobre o projeto:
 
-<p>Nossa missão é desenvolver um sistema que faça a leitura dos dados baixados do site do CAR pelo cliente Visiona Tecnologia Espacial, de cada município/estado, agrupando e organizando-os dentro de um único banco de dados, a fim de facilitar a utilização desses dados através dos sistemas de propriedade da empresa.</p>
+Nossa missão é desenvolver um sistema que faça a leitura dos dados baixados do site do CAR pelo cliente Visiona Tecnologia Espacial, de cada município/estado, agrupando e organizando-os dentro de um único banco de dados, a fim de facilitar a utilização desses dados através dos sistemas de propriedade da empresa.
 
-<p>O [CAR](https://www.car.gov.br/#/) - Cadastro Ambiental Rural – É um registro público eletrônico de âmbito nacional, obrigatório para todos os imóveis rurais, com a finalidade de integrar as informações ambientais das propriedades e posses rurais no Brasil.</p>
+O [CAR](https://www.car.gov.br/#/) - Cadastro Ambiental Rural – É um registro público eletrônico de âmbito nacional, obrigatório para todos os imóveis rurais, com a finalidade de integrar as informações ambientais das propriedades e posses rurais no Brasil.
 
 
  ## 👨🏽‍🎓 Equipe Javapastry
