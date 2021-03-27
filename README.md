@@ -20,8 +20,6 @@
 - Gustavo de Castro Costa Silva (**Developer**)
 - Michel Rubens Ferreira da Silva (**Developer**)
 
-
-
 ---
 ### 🔔  Requisitos do cliente
 
@@ -62,12 +60,27 @@
 
 <p><img src="https://i.imgur.com/WZ95KSd.png" /></p>
 
-- Kick off do projeto -  Início:00/00//2021 Entrega: 00/00/2021
-- Sprint 1 - Início: 00/00/2021 Entrega: 00/00/2021
-- Sprint 2 - Início: 00/00/2021 Entrega: 00/00/2021
-- Sprint 3 - Início: 00/00/2021 Entrega: 00/00/2021
-- Sprint 4 - Início: 00/00/2021 Entrega: 00/00/2021  
-- Apresentação final - Início: 00/00/2021 Entrega: 00/00/2021
+<table>
+ <tbody>
+ <tr>
+  <td width="100px">Sprint 1</td>
+  <td>Apresentação de solução, com o entendimento do problema informado pelo cliente. Validar Solução e definir próximas entregas.</td>
+ </tr>
+ <tr>
+  <td>Sprint 2</td>
+  <td>À definir</td>
+ </tr>
+ <tr>
+  <td>Sprint 3</td>
+  <td>À definir</td>
+ </tr>
+ <tr>
+  <td>Sprint 4</td>
+  <td>À definir</td>
+ </tr>
+ </tbody>
+ </table>
+
 
 ---
 
