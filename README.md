@@ -1,3 +1,6 @@
+<p><img src="https://img.shields.io/badge/status%20do%20projeto-em%20progresso-yellow?style=for-the-badge&logo=appveyor"></p>
+       <p><img src="https://img.shields.io/badge/Sprint%20atual-Sprint%201-blue?style=for-the-badge&logo=appveyor"></p>
+       <p>
 
 # Projeto Integrador (Grupo 02)  - Visiona  
 <img src="https://uploaddeimagens.com.br/images/003/155/335/full/Imagem5.png?1616876472" >
@@ -26,8 +29,12 @@ Nossa missão é desenvolver um sistema que faça a leitura dos dados baixados d
 
 <table>
  <tbody>
+  <tr>
+   <th width="90px">Sprints</th>
+   <th>Descrição</th>
+  </tr>
  <tr>
-  <td width="100px">Sprint 1</td>
+  <td>Sprint 1</td>
   <td>Apresentação de solução, com o entendimento do problema informado pelo cliente. Validar Solução e definir próximas entregas.</td>
  </tr>
  <tr>
@@ -44,33 +51,8 @@ Nossa missão é desenvolver um sistema que faça a leitura dos dados baixados d
  </tr>
  </tbody>
  </table>
- 
----
-
-### 🔔  Requisitos do cliente
-
- Organizar os dados de cada município e estado em um único banco de dados.
- * Lorem ipsum dolor sit amet, consectetur adipiscing elit
- * Lorem ipsum dolor sit amet, consectetur adipiscing elit
- * Lorem ipsum dolor sit amet, consectetur adipiscing elit
- * Lorem ipsum dolor sit amet, consectetur adipiscing elit
- * Lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 ---
-
-### 📱 Funcionalidades
-- **Lorem ipsuma:** 
-- **Lorem ipsum:** 
-- **Lorem ipsum:**
-- **Lorem ipsum:**
-- **Lorem ipsum:**
-- **Lorem ipsum:**
-- **Lorem ipsum:**
-- **Lorem ipsum:**
-
-
----
-
 
 ### 🚀 Tecnologias Utilizadas
 
