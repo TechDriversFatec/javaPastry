@@ -8,7 +8,7 @@
 
 <p>Nossa missão é desenvolver um sistema que faça a leitura dos dados baixados do site do CAR pelo cliente Visiona Tecnologia Espacial, de cada município/estado, agrupando e organizando-os dentro de um único banco de dados, a fim de facilitar a utilização desses dados através dos sistemas de propriedade da empresa.</p>
 
-<p>O CAR - Cadastro Ambiental Rural – É um registro público eletrônico de âmbito nacional, obrigatório para todos os imóveis rurais, com a finalidade de integrar as informações ambientais das propriedades e posses rurais no Brasil.</p>
+<p>O [CAR](https://www.car.gov.br/#/) - Cadastro Ambiental Rural – É um registro público eletrônico de âmbito nacional, obrigatório para todos os imóveis rurais, com a finalidade de integrar as informações ambientais das propriedades e posses rurais no Brasil.</p>
 
 
  ## 👨🏽‍🎓 Equipe Javapastry
@@ -48,11 +48,19 @@
 
 ### 🚀 Tecnologias Utilizadas
 
-✔️ [GitHub](https://github.com)
+✔️ [GitHub](https://github.com/gustavocastrow/pi-fatec)
 
 ✔️ [Figma](https://figma.com)
 
-✔️ [Trello](https://trello.com/)
+✔️ [Trello](https://trello.com/b/kc4YAQqv)
+
+✔️ [C#]()
+
+✔️ [Java]()
+
+✔️ [SQL Server]()
+
+✔️ [Python]()
 
 ---
 
@@ -80,8 +88,7 @@
  </tr>
  </tbody>
  </table>
-
-
+ 
 ---
 
 ### Sprint 01 -
@@ -95,8 +102,6 @@
 - Abaixo demonstraremos como ficarão os dados, após a importação de todos os arquivos da area do imóvel dentro de um único banco de dados organizados.|(Modelo inicial  para aprovação do entendimento)
 
 <p><img src="https://uploaddeimagens.com.br/images/003/155/277/full/Imagem3.png?1616873009" /></p>
-
-Em construção 🚧
 
 ### Sprint 02 -
 Em construção 🚧
