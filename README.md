@@ -4,11 +4,11 @@
 <img src="https://uploaddeimagens.com.br/images/003/155/249/full/Integra_car.png?1616871928" >
 </p>
 
-## Uma breve descricao sobre o projeto:
-
-Nossa missão é desenvolver um sistema que faça a leitura dos dados baixados do site do CAR pelo cliente Visiona Tecnologia Espacial, de cada município/estado, agrupando e organizando-os dentro de um único banco de dados, a fim de facilitar a utilização desses dados através dos sistemas de propriedade da empresa.
+## Nossa Missão:
 
 O [CAR](https://www.car.gov.br/#/) - Cadastro Ambiental Rural – É um registro público eletrônico de âmbito nacional, obrigatório para todos os imóveis rurais, com a finalidade de integrar as informações ambientais das propriedades e posses rurais no Brasil.
+
+Nossa missão é desenvolver um sistema que faça a leitura dos dados baixados do site do CAR pelo cliente Visiona Tecnologia Espacial, de cada município/estado, agrupando e organizando-os dentro de um único banco de dados, a fim de facilitar a utilização desses dados através dos sistemas de propriedade da empresa.
 
 
  ## 👨🏽‍🎓 Equipe Javapastry
@@ -21,6 +21,34 @@ O [CAR](https://www.car.gov.br/#/) - Cadastro Ambiental Rural – É um registro
 - Michel Rubens Ferreira da Silva (**Developer**)
 
 ---
+
+### 📅 Cronograma
+
+<p><img src="https://i.imgur.com/WZ95KSd.png" /></p>
+
+<table>
+ <tbody>
+ <tr>
+  <td width="100px">Sprint 1</td>
+  <td>Apresentação de solução, com o entendimento do problema informado pelo cliente. Validar Solução e definir próximas entregas.</td>
+ </tr>
+ <tr>
+  <td>Sprint 2</td>
+  <td>À definir</td>
+ </tr>
+ <tr>
+  <td>Sprint 3</td>
+  <td>À definir</td>
+ </tr>
+ <tr>
+  <td>Sprint 4</td>
+  <td>À definir</td>
+ </tr>
+ </tbody>
+ </table>
+ 
+---
+
 ### 🔔  Requisitos do cliente
 
  Organizar os dados de cada município e estado em um único banco de dados.
@@ -62,33 +90,6 @@ O [CAR](https://www.car.gov.br/#/) - Cadastro Ambiental Rural – É um registro
 
 ✔️ [Python]()
 
----
-
-### 📅 Cronograma
-
-<p><img src="https://i.imgur.com/WZ95KSd.png" /></p>
-
-<table>
- <tbody>
- <tr>
-  <td width="100px">Sprint 1</td>
-  <td>Apresentação de solução, com o entendimento do problema informado pelo cliente. Validar Solução e definir próximas entregas.</td>
- </tr>
- <tr>
-  <td>Sprint 2</td>
-  <td>À definir</td>
- </tr>
- <tr>
-  <td>Sprint 3</td>
-  <td>À definir</td>
- </tr>
- <tr>
-  <td>Sprint 4</td>
-  <td>À definir</td>
- </tr>
- </tbody>
- </table>
- 
 ---
 
 ### Sprint 01 -
