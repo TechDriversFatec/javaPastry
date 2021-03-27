@@ -55,10 +55,10 @@
 
 ### 📅 Cronograma
 - Kick off do projeto -  Início:00/00//2021 Entrega: 00/00/2021
-- Sprint 1 - Início: 08/03/2021 Entrega: 00/00/2021
-- Sprint 2 - Início: 29/03/2021 Entrega: 00/00/2021
-- Sprint 3 - Início: 26/04/2021 Entrega: 00/00/2021
-- Sprint 4 - Início: 17/05/2021 Entrega: 00/00/2021  
+- Sprint 1 - Início: 00/00/2021 Entrega: 00/00/2021
+- Sprint 2 - Início: 00/00/2021 Entrega: 00/00/2021
+- Sprint 3 - Início: 00/00/2021 Entrega: 00/00/2021
+- Sprint 4 - Início: 00/00/2021 Entrega: 00/00/2021  
 - Apresentação final - Início: 00/00/2021 Entrega: 00/00/2021
 
 ---
