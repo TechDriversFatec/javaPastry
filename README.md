@@ -6,21 +6,26 @@
 
 "Uma breve descricao sobre o projeto:"
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum venenatis sapien orci, quis iaculis lectus ultricies in. Sed pretium, nisl non sodales vehicula, libero leo finibus felis, eget feugiat quam massa et ligula. Vivamus vel metus finibus, aliquet augue tincidunt, accumsan sem. Donec quis metus aliquet, euismod neque sit amet, porta nibh. Aliquam nec lacinia tortor. Sed nec lacus risus. Praesent venenatis neque quis sapien facilisis, in laoreet mauris tempor. Sed eu dolor sed tellus pulvinar lacinia ac sed neque. </p>
+<p>Nossa missão é desenvolver um sistema que faça a leitura dos dados baixados do site do CAR pelo cliente Visiona Tecnologia Espacial, de cada município/estado, agrupando e organizando-os dentro de um único banco de dados, a fim de facilitar a utilização desses dados através dos sistemas de propriedade da empresa.</p>
+
+<p>O CAR - Cadastro Ambiental Rural – É um registro público eletrônico de âmbito nacional, obrigatório para todos os imóveis rurais, com a finalidade de integrar as informações ambientais das propriedades e posses rurais no Brasil.</p>
+
 
  ## 👨🏽‍🎓 Equipe Javapastry
  
+- Alexandre da Silva Santos (**Scrum Master**)
+- Carlos Fernando de Souza (**Product Owner**)
+- Danilo Silva Lima (**Developer**)
 - Guilherme de Agostin (**Developer**)
 - Gustavo de Castro Costa Silva (**Developer**)
 - Michel Rubens Ferreira da Silva (**Developer**)
-- Danilo Silva Lima (**Developer**)
-- Carlos Fernando de Souza (**Product Owner**)
-- Alexandre da Silva Santos (**Scrum Master**)
 
 
 
 ---
 ### 🔔  Requisitos do cliente
+
+ Organizar os dados de cada município e estado em um único banco de dados.
  * Lorem ipsum dolor sit amet, consectetur adipiscing elit
  * Lorem ipsum dolor sit amet, consectetur adipiscing elit
  * Lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -54,6 +59,9 @@
 ---
 
 ### 📅 Cronograma
+
+<p><img src="https://i.imgur.com/WZ95KSd.png" /></p>
+
 - Kick off do projeto -  Início:00/00//2021 Entrega: 00/00/2021
 - Sprint 1 - Início: 00/00/2021 Entrega: 00/00/2021
 - Sprint 2 - Início: 00/00/2021 Entrega: 00/00/2021
@@ -64,6 +72,16 @@
 ---
 
 ### Sprint 01 -
+
+- Conforme  nosso entendimento em reunião com o cliente demonstraremos aqui através de um modelo inicial, pegando como exemplo o cadastro da área dos imóveis, demonstrando como ficarão esses dados após o tratamento e a organização executada pelo nosso sistema.
+
+- Abaixo  demonstramos como é hoje, um arquivo por município/estado.
+
+<p><img src="https://uploaddeimagens.com.br/images/003/155/275/full/Imagem2.png?1616872973" /></p>
+
+- Abaixo demonstraremos como ficarão os dados, após a importação de todos os arquivos da area do imóvel dentro de um único banco de dados organizados.|(Modelo inicial  para aprovação do entendimento)
+
+<p><img src="https://uploaddeimagens.com.br/images/003/155/277/full/Imagem3.png?1616873009" /></p>
 
 Em construção 🚧
 
