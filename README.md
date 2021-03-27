@@ -30,14 +30,14 @@
 ---
 
 ### 📱 Funcionalidades
-- **Agenda:** 
-- **Previsão do tempo:** 
-- **Buscar rota:**
-- **Mapa da cidade:**
-- **Pontos turísticos:**
-- **Atividades do hotel:**
-- **Sobre o hotel:**
-- **Conversor de moedas:**
+- **Lorem ipsuma:** 
+- **Lorem ipsum:** 
+- **Lorem ipsum:**
+- **Lorem ipsum:**
+- **Lorem ipsum:**
+- **Lorem ipsum:**
+- **Lorem ipsum:**
+- **Lorem ipsum:**
 
 
 ---
