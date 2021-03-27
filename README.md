@@ -1,9 +1,3 @@
-# Projeto Integrador (Grupo 02)  - Visiona 
-
-### Integrantes do grupo:
-
-
-
 
 # Projeto Integrador (Grupo 02)  - Visiona  
 <p align="center">
