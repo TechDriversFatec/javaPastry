@@ -19,6 +19,7 @@ namespace APIFATECForms
         static string PastaDaAplicacao = Directory.GetParent(Directory.GetCurrentDirectory()).Parent.FullName;
         static string BasePath = Path.Combine(PastaDaAplicacao, "BasePath");
         static string APP = Path.Combine(BasePath, "APP");
+        static string AREA_ALTITUDE_SUPERIOR_1800 = Path.Combine(BasePath, "AREA_ALTITUDE_SUPERIOR_1800");
         static string AREA_CONSOLIDADA = Path.Combine(BasePath, "AREA_CONSOLIDADA");
         static string AREA_DECLIVIDADE_MAIOR_45 = Path.Combine(BasePath, "AREA_DECLIVIDADE_MAIOR_45");
         static string AREA_IMOVEL = Path.Combine(BasePath, "AREA_IMOVEL");
@@ -72,6 +73,7 @@ namespace APIFATECForms
 
             zip.CriarPasta(BasePath);
             zip.CriarPasta(APP);
+            zip.CriarPasta(AREA_ALTITUDE_SUPERIOR_1800);
             zip.CriarPasta(AREA_CONSOLIDADA);
             zip.CriarPasta(AREA_DECLIVIDADE_MAIOR_45);
             zip.CriarPasta(AREA_IMOVEL);
@@ -113,6 +115,11 @@ namespace APIFATECForms
         internal static void ExtractToDirectory(string zipPath, string path)
         {
             throw new NotImplementedException();
+        }
+
+        public bool IsDirectoryEmpty(string path)
+        {
+            return !Directory.EnumerateFileSystemEntries(path).Any();
         }
 
 
@@ -166,94 +173,153 @@ namespace APIFATECForms
 
                         foreach (ZipArchiveEntry  entry in archive.Entries)
                         {
-                            
-                            string destinationPath = Path.GetFullPath(Path.Combine(BasePath, entry.FullName));
-                            // dar uma olhada que nesse try ele acaba colacando varios valores dentro da pasta
-                            // antes de popular verificar se a pasta esta vazia e so popular se estiver
-                            // ver se da pra entrar verificando as pastas
                             try
                             {
-                                zip.ExtrairArquivo(entry.FullName, APP);
+                                if(IsDirectoryEmpty(APP) == true && entry.FullName == "APP.zip")
+                                {
+                                    zip.ExtrairArquivo(entry.FullName, APP);
+                                }
+                                
                             }
                             catch { }
                             try
                             {
-                                zip.ExtrairArquivo(entry.FullName, AREA_CONSOLIDADA);
+                                if (IsDirectoryEmpty(AREA_ALTITUDE_SUPERIOR_1800) == true && entry.FullName == "AREA_ALTITUDE_SUPERIOR_1800.zip")
+                                {
+                                    zip.ExtrairArquivo(entry.FullName, AREA_ALTITUDE_SUPERIOR_1800);
+                                }
+
                             }
                             catch { }
                             try
                             {
-                                zip.ExtrairArquivo(entry.FullName, AREA_DECLIVIDADE_MAIOR_45);
+                                if (IsDirectoryEmpty(AREA_CONSOLIDADA) == true && entry.FullName == "AREA_CONSOLIDADA.zip")
+                                {
+                                    zip.ExtrairArquivo(entry.FullName, AREA_CONSOLIDADA);
+                                }
                             }
                             catch { }
                             try
                             {
-                                zip.ExtrairArquivo(entry.FullName, AREA_IMOVEL);
+                                if (IsDirectoryEmpty(AREA_DECLIVIDADE_MAIOR_45) == true && entry.FullName == "AREA_DECLIVIDADE_MAIOR_45.zip")
+                                {
+                                    zip.ExtrairArquivo(entry.FullName, AREA_DECLIVIDADE_MAIOR_45);
+                                }
+                                
                             }
                             catch { }
                             try
                             {
-                                zip.ExtrairArquivo(entry.FullName, AREA_POUSIO);
+                                if (IsDirectoryEmpty(AREA_IMOVEL) == true && entry.FullName == "AREA_IMOVEL.zip")
+                                {
+                                    zip.ExtrairArquivo(entry.FullName, AREA_IMOVEL);
+                                }
                             }
                             catch { }
                             try
                             {
-                                zip.ExtrairArquivo(entry.FullName, AREA_TOPO_MORRO);
+                                if (IsDirectoryEmpty(AREA_POUSIO) == true && entry.FullName == "AREA_POUSIO.zip")
+                                {
+                                    zip.ExtrairArquivo(entry.FullName, AREA_POUSIO);
+                                }
                             }
                             catch { }
                             try
                             {
-                                zip.ExtrairArquivo(entry.FullName, BANHADO);
+
+                                if (IsDirectoryEmpty(AREA_TOPO_MORRO) == true && entry.FullName == "AREA_TOPO_MORRO.zip")
+                                {
+                                    zip.ExtrairArquivo(entry.FullName, AREA_TOPO_MORRO);
+                                }
                             }
                             catch { }
                             try
                             {
-                                zip.ExtrairArquivo(entry.FullName, BORDA_CHAPADA);
+                                if (IsDirectoryEmpty(BANHADO) == true && entry.FullName == "BANHADO.zip")
+                                {
+                                    zip.ExtrairArquivo(entry.FullName, BANHADO);
+                                }
+                                
                             }
                             catch { }
                             try
                             {
-                                zip.ExtrairArquivo(entry.FullName, HIDROGRAFIA);
+                                if (IsDirectoryEmpty(BORDA_CHAPADA) == true && entry.FullName == "BORDA_CHAPADA.zip")
+                                {
+                                    zip.ExtrairArquivo(entry.FullName, BORDA_CHAPADA);
+                                }
                             }
                             catch { }
                             try
                             {
-                                zip.ExtrairArquivo(entry.FullName, MANGUEZAL);
+                                if (IsDirectoryEmpty(HIDROGRAFIA) == true && entry.FullName == "HIDROGRAFIA.zip")
+                                {
+                                    zip.ExtrairArquivo(entry.FullName, HIDROGRAFIA);
+                                }
                             }
                             catch { }
                             try
                             {
-                                zip.ExtrairArquivo(entry.FullName, NASCENTE_OLHO_DAGUA);
+                                if (IsDirectoryEmpty(MANGUEZAL) == true && entry.FullName == "MANGUEZAL.zip")
+                                {
+                                    zip.ExtrairArquivo(entry.FullName, MANGUEZAL);
+                                }
                             }
                             catch { }
                             try
                             {
-                                zip.ExtrairArquivo(entry.FullName, RESERVA_LEGAL);
+                                if (IsDirectoryEmpty(NASCENTE_OLHO_DAGUA) == true && entry.FullName == "NASCENTE_OLHO_DAGUA.zip")
+                                {
+                                    zip.ExtrairArquivo(entry.FullName, NASCENTE_OLHO_DAGUA);
+                                }
                             }
                             catch { }
                             try
                             {
-                                zip.ExtrairArquivo(entry.FullName, RESTINGA);
+                                if (IsDirectoryEmpty(RESERVA_LEGAL) == true && entry.FullName == "RESERVA_LEGAL.zip")
+                                {
+                                    zip.ExtrairArquivo(entry.FullName, RESERVA_LEGAL);
+                                }
                             }
                             catch { }
                             try
                             {
-                                zip.ExtrairArquivo(entry.FullName, SERVIDAO_ADMINISTRATIVA);
+                                if (IsDirectoryEmpty(RESTINGA) == true && entry.FullName == "RESTINGA.zip")
+                                {
+                                    zip.ExtrairArquivo(entry.FullName, RESTINGA);
+                                }
                             }
                             catch { }
                             try
                             {
-                                zip.ExtrairArquivo(entry.FullName, USO_RESTRITO);
+                                if (IsDirectoryEmpty(SERVIDAO_ADMINISTRATIVA) == true && entry.FullName == "SERVIDAO_ADMINISTRATIVA.zip")
+                                {
+                                    zip.ExtrairArquivo(entry.FullName, SERVIDAO_ADMINISTRATIVA);
+                                }
                             }
                             catch { }
                             try
                             {
-                                zip.ExtrairArquivo(entry.FullName, VEGETACAO_NATIVA);
+                                if (IsDirectoryEmpty(USO_RESTRITO) == true && entry.FullName == "USO_RESTRITO.zip")
+                                {
+                                    zip.ExtrairArquivo(entry.FullName, USO_RESTRITO);
+                                }
                             }
                             catch { }
                             try
                             {
-                                zip.ExtrairArquivo(entry.FullName, VEREDA);
+                                if (IsDirectoryEmpty(VEGETACAO_NATIVA) == true && entry.FullName == "VEGETACAO_NATIVA.zip")
+                                {
+                                    zip.ExtrairArquivo(entry.FullName, VEGETACAO_NATIVA);
+                                }
+                            }
+                            catch { }
+                            try
+                            {
+                                if (IsDirectoryEmpty(VEREDA) == true && entry.FullName == "VEREDA.zip")
+                                {
+                                    zip.ExtrairArquivo(entry.FullName, VEREDA);
+                                }
                             }
                             catch { }
 
@@ -263,7 +329,7 @@ namespace APIFATECForms
                             }
                             catch { }
 
-                            break;
+                           // break;
 
                             // passando so uma vez pelo try eu so coloco os arquivos presentes na camada APP
 
