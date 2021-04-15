@@ -28,7 +28,7 @@ Pontos relevantes da aplicação:
 
 <img src="https://i.imgur.com/t60JtrF.png">
 
-8. Se caso o cliente não queira selecionar nenhum filtro de arquivo, ele pode clicar no botão que fica ao lado da caixa de texto superior (...), no qual o mesmo abre uma caixa de diálogo, mostrando todos os arquivos presentes, e de todos os tipos na máquina do cliente, possibilitando uma escolha.
+8. Caso o usuário não queira selecionar nenhum filtro de arquivo, ele pode clicar no botão que fica ao lado da caixa de texto superior (...), no qual o mesmo abre uma caixa de diálogo, mostrando todos os arquivos presentes, e de todos os tipos na máquina do cliente, possibilitando uma escolha.
 
 <img src="https://i.imgur.com/tuf1z7W.png">
 
