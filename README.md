@@ -43,11 +43,11 @@ Nossa missão é desenvolver um sistema que faça a leitura dos dados baixados d
  </tr>
  <tr>
   <td>Sprint 3</td>
-  <td>À definir</td>
+  <td>Cadastrar no banco de dados as variaveis de valor extraidas do arquivo .shapefile.</td>
  </tr>
  <tr>
   <td>Sprint 4</td>
-  <td>À definir</td>
+  <td>Integração final do back-end com o front-end.</td>
  </tr>
  </tbody>
  </table>
