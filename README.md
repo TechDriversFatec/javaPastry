@@ -39,7 +39,7 @@ Nossa missão é desenvolver um sistema que faça a leitura dos dados baixados d
  </tr>
  <tr>
   <td>Sprint 2</td>
-  <td>À definir</td>
+  <td>Desenvolvimento da funcionalidade importação na qual o cliente não terá contato com nenhum arquivo .zip, a aplicação irá fazer todo esse processo automaticamente.</td>
  </tr>
  <tr>
   <td>Sprint 3</td>
@@ -73,25 +73,13 @@ Nossa missão é desenvolver um sistema que faça a leitura dos dados baixados d
 ---
 
 ## Sprint 01 ✔️
-
-### Estamos entregando:
-
-- Conforme  nosso entendimento em reunião com o cliente, demonstraremos aqui através de um modelo inicial, pegando como exemplo o cadastro da área dos imóveis, visualizando esses dados após o tratamento e a organização executada pelo nosso sistema.
-
-- Abaixo  demonstramos como é hoje, um arquivo por município/estado:
-
-<p><img src="https://uploaddeimagens.com.br/images/003/155/275/full/Imagem2.png?1616872973" /></p>
-
-- Abaixo a visualização dos dados após a importação de todos os arquivos da área dos imóveis dentro de um único banco de dados, organizados:
-
-<p><img src="https://uploaddeimagens.com.br/images/003/155/277/full/Imagem3.png?1616873009" /></p>
-
-**CARD 1️⃣**<p>
-<img src="https://uploaddeimagens.com.br/images/003/155/435/full/CARD1.png?1616880839" >
-
-## Sprint 02 -
-Em construção 🚧
-## Sprint 03 -
-Em construção 🚧
-## Sprint 04 -
-Em construção 🚧
+   - Entrega do wireframe da aplicação 
+## Sprint 02 🚧
+   - Desenvolvimento da funcionalidade importação na qual o cliente não terá contato com nenhum arquivo .zip, a aplicação irá fazer todo esse processo automaticamente.
+   - Desenvolvimento do escopo de diretórios da aplicação.
+   - Entrega do wireframe pendente da da sprint 01.
+## Sprint 03 🚧
+   - Cadastrar no banco de dados as variaveis de valor extraidas do arquivo .shapefile.
+## Sprint 04 🚧
+   - Integração final do back-end com o front-end.
+   - Deploy da aplicação.
