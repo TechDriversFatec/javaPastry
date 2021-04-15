@@ -14,11 +14,10 @@ Nossa missão é desenvolver um sistema que faça a leitura dos dados baixados d
 
  ## 👨🏽‍🎓 Equipe Javapastry
  
-- Alexandre da Silva Santos (**Scrum Master**)
-- Carlos Fernando de Souza (**Product Owner**)
+- Alexandre da Silva Santos (**Product Owner**)
 - Danilo Silva Lima (**Developer**)
+- Gustavo de Castro Costa Silva (**Scrum Master**)
 - Guilherme de Agostin (**Developer**)
-- Gustavo de Castro Costa Silva (**Developer**)
 - Michel Rubens Ferreira da Silva (**Developer**)
 
 ---
