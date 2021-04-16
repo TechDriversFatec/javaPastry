@@ -42,7 +42,7 @@ Nossa missão é desenvolver um sistema que faça a leitura dos dados baixados d
  </tr>
  <tr>
   <td>Sprint 3</td>
-  <td>Cadastrar no banco de dados as variaveis de valor extraidas do arquivo .shapefile.</td>
+  <td>Criação do banco de dados e cadastro das variaveis de valor extraidas do arquivo .shapefile.</td>
  </tr>
  <tr>
   <td>Sprint 4</td>
@@ -78,7 +78,7 @@ Nossa missão é desenvolver um sistema que faça a leitura dos dados baixados d
    - Desenvolvimento do escopo de diretórios da aplicação.
    - Entrega do wireframe pendente da da sprint 01.
 ## Sprint 03 🚧
-   - Cadastrar no banco de dados as variaveis de valor extraidas do arquivo .shapefile.
+   - Criação do banco de dados e cadastro das variaveis de valor extraidas do arquivo .shapefile.
 ## Sprint 04 🚧
    - Integração final do back-end com o front-end.
    - Deploy da aplicação.
