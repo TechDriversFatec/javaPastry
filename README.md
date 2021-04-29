@@ -73,7 +73,7 @@ Nossa missão é desenvolver um sistema que faça a leitura dos dados baixados d
 
 ## Sprint 01 ✔️
    - Entrega do wireframe da aplicação 
-## Sprint 02 🚧
+## Sprint 02 ✔️
    - Desenvolvimento da funcionalidade importação na qual o cliente não terá contato com nenhum arquivo .zip, a aplicação irá fazer todo esse processo automaticamente.
    - Desenvolvimento do escopo de diretórios da aplicação.
    - Entrega do wireframe pendente da sprint 01.
