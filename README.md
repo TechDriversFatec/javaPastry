@@ -46,7 +46,8 @@ Nossa missão é desenvolver um sistema que faça a leitura dos dados baixados d
  </tr>
  <tr>
   <td>Sprint 4</td>
-  <td>Integração final do back-end com o front-end.</td>
+  <td>Integração final do back-end com o front-end, e deploy do banco de dados.</td>
+  
  </tr>
  </tbody>
  </table>
