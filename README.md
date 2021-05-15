@@ -79,7 +79,10 @@ Nossa missão é desenvolver um sistema que faça a leitura dos dados baixados d
    - Desenvolvimento do escopo de diretórios da aplicação.
    - Entrega do wireframe pendente da sprint 01.
 ## Sprint 03 🚧
-   - Criação do banco de dados e cadastro das variaveis de valor extraidas do arquivo .shapefile.
+   - Criaçao do Banco de dados
+   - Teste de conexão no google cloud
+   - Criação da tabela com os campos do Shapefile
+   - Testes manuais com dados do Shapefile (input, insert, etc)
 ## Sprint 04 🚧
    - Integração final do back-end com o front-end.
    - Deploy da aplicação.
