@@ -42,7 +42,7 @@ Nossa missão é desenvolver um sistema que faça a leitura dos dados baixados d
  </tr>
  <tr>
   <td>Sprint 3</td>
-  <td>Criação do banco de dados e cadastro das variaveis de valor extraidas do arquivo .shapefile.</td>
+  <td>Criação do banco de dados e cadastro das variaveis de valor extraidas do arquivo .shapefile <\br> Google Cloud.</td>
  </tr>
  <tr>
   <td>Sprint 4</td>
