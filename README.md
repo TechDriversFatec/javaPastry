@@ -85,4 +85,5 @@ Nossa missão é desenvolver um sistema que faça a leitura dos dados baixados d
    - Testes manuais com dados do Shapefile (input, insert, etc)
 ## Sprint 04 🚧
    - Integração final do back-end com o front-end.
+   - Criação final da tabela espacial
    - Deploy da aplicação.
