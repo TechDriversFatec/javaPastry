@@ -14,7 +14,7 @@ Nossa missão é desenvolver um sistema que faça a leitura dos dados baixados d
 
  ## 👨🏽‍🎓 Equipe Javapastry
  
-- Alexandre da Silva Santos (**Product Owner**)
+- Pedro Lucas dos Santos Rodrigues (**Product Owner**)
 - Danilo Silva Lima (**Developer**)
 - Gustavo de Castro Costa Silva (**Scrum Master**)
 - Guilherme de Agostin (**Developer**)
@@ -78,7 +78,7 @@ Nossa missão é desenvolver um sistema que faça a leitura dos dados baixados d
    - Desenvolvimento da funcionalidade importação na qual o cliente não terá contato com nenhum arquivo .zip, a aplicação irá fazer todo esse processo automaticamente.
    - Desenvolvimento do escopo de diretórios da aplicação.
    - Entrega do wireframe pendente da sprint 01.
-## Sprint 03 🚧
+## Sprint 03 ✔️
    - Criaçao do Banco de dados
    - Teste de conexão no google cloud
    - Criação da tabela com os campos do Shapefile
