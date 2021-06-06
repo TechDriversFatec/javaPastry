@@ -1,28 +1,29 @@
-<p><img src="https://img.shields.io/badge/status%20do%20projeto-em%20progresso-yellow?style=for-the-badge&logo=appveyor"></p>
-       <p><img src="https://img.shields.io/badge/Sprint%20atual-Sprint%202-blue?style=for-the-badge&logo=appveyor"></p>
-       <p>
-
+<img src="https://img.shields.io/badge/status%20do%20projeto-concluído-green?style=for-the-badge&logo=appveyor">
+<img src="https://img.shields.io/badge/Sprint%20atual-Projeto%20concluído-green?style=for-the-badge&logo=appveyor">
+       
+       
 # Projeto Integrador (Grupo 02)  - Visiona  
 <img src="https://uploaddeimagens.com.br/images/003/155/335/full/Imagem5.png?1616876472" >
 
-## Nossa Missão: 
+## 🚀 Missão: 
 
 O [CAR](https://www.car.gov.br/#/) - Cadastro Ambiental Rural – É um registro público eletrônico de âmbito nacional, obrigatório para todos os imóveis rurais, com a finalidade de integrar as informações ambientais das propriedades e posses rurais no Brasil.
 
-Nossa missão é desenvolver um sistema que faça a leitura dos dados baixados do site do CAR pelo cliente Visiona Tecnologia Espacial, de cada município/estado, agrupando e organizando-os dentro de um único banco de dados, a fim de facilitar a utilização desses dados através dos sistemas de propriedade da empresa.
+## 🎯 Objetivo: 
+Nosso objetivo é desenvolver um sistema que faça a leitura dos dados baixados do site do CAR pelo cliente Visiona Tecnologia Espacial, de cada município/estado, agrupando e organizando-os dentro de um único banco de dados, a fim de facilitar a utilização desses dados através dos sistemas de propriedade da empresa.
 
 
- ## 👨🏽‍🎓 Equipe Javapastry
+ ## 👨🏽‍🎓 Equipe Javapastry:
  
 - Pedro Lucas dos Santos Rodrigues (**Product Owner**)
-- Danilo Silva Lima (**Developer**)
-- Gustavo de Castro Costa Silva (**Scrum Master**)
-- Guilherme de Agostin (**Developer**)
-- Michel Rubens Ferreira da Silva (**Developer**)
+- [Danilo Silva Lima (**Developer**)](https://www.linkedin.com/in/danilo-lima-029bb8142/)
+- [Gustavo de Castro Costa Silva (**Scrum Master**)](https://www.linkedin.com/in/gustavocastrow/)
+- [Guilherme de Agostin (**Developer**)](https://www.linkedin.com/in/guilherme-agostin-90ba6169/)
+- [Michel Rubens Ferreira da Silva (**Developer**)](https://www.linkedin.com/in/michelrubens/)
 
 ---
 
-### 📅 Cronograma
+### 📅 Cronograma:
 
 <p><img src="https://i.imgur.com/WZ95KSd.png" /></p>
 
@@ -34,7 +35,7 @@ Nossa missão é desenvolver um sistema que faça a leitura dos dados baixados d
   </tr>
  <tr>
   <td>Sprint 1</td>
-  <td>Apresentação de solução, com o entendimento do problema informado pelo cliente. Validar Solução e definir próximas entregas.</td>
+  <td>Apresentação de solução, com o entendimento do problema informado pelo cliente, validação da solução e das próximas entregas.</td>
  </tr>
  <tr>
   <td>Sprint 2</td>
@@ -46,7 +47,7 @@ Nossa missão é desenvolver um sistema que faça a leitura dos dados baixados d
  </tr>
  <tr>
   <td>Sprint 4</td>
-  <td>Integração final do back-end com o front-end, e deploy do banco de dados.</td>
+  <td>Integração final do back-end com o front-end, juntamente com o banco de dados.</td>
   
  </tr>
  </tbody>
@@ -54,36 +55,34 @@ Nossa missão é desenvolver um sistema que faça a leitura dos dados baixados d
 
 ---
 
-### 🚀 Tecnologias Utilizadas
+### ⚙️ Tecnologias Utilizadas:
 
-✔️ [GitHub](https://github.com/gustavocastrow/pi-fatec)
+🛠️  [GitHub](https://github.com/gustavocastrow/pi-fatec)
 
-✔️ [Figma](https://figma.com)
+🛠️  [Figma](https://figma.com)
 
-✔️ [Trello](https://trello.com/b/kc4YAQqv)
+🛠️ [Trello](https://trello.com/b/kc4YAQqv)
 
-✔️ [C#]()
+🛠️  [C#]()
 
-✔️ [Java]()
+🛠️  [SQL Server]()
 
-✔️ [SQL Server]()
-
-✔️ [Python]()
+🛠️  [Python]()
 
 ---
 
-## Sprint 01 ✔️
-   - Entrega do wireframe da aplicação 
-## Sprint 02 ✔️
-   - Desenvolvimento da funcionalidade importação na qual o cliente não terá contato com nenhum arquivo .zip, a aplicação irá fazer todo esse processo automaticamente.
+## 📑 Sprint 01 ✔️
+   - Validação da solução juntamente com as sprints defininas
+   - Wireframe contendo todo o design da aplicação
+## 📑 Sprint 02 ✔️
+   - Desenvolvimento da funcionalidade importação na qual o cliente não terá contato com nenhum arquivo .zip, a aplicação irá fazer todo esse processo automaticamente
    - Desenvolvimento do escopo de diretórios da aplicação.
    - Entrega do wireframe pendente da sprint 01.
-## Sprint 03 ✔️
+   Entrega do desenvolvimento da funcionalidade
+## 📑 Sprint 03 ✔️
    - Criaçao do Banco de dados
-   - Teste de conexão no google cloud
    - Criação da tabela com os campos do Shapefile
    - Testes manuais com dados do Shapefile (input, insert, etc)
-## Sprint 04 🚧
+## 📑 Sprint 04 ✔️
    - Integração final do back-end com o front-end.
    - Criação final da tabela espacial
-   - Deploy da aplicação.
