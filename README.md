@@ -15,7 +15,6 @@ Nosso objetivo é desenvolver um sistema que faça a leitura dos dados baixados 
 
  ## 👨🏽‍🎓 Equipe Javapastry:
  
-- Pedro Lucas dos Santos Rodrigues (**Product Owner**)
 - [Danilo Silva Lima (**Developer**)](https://www.linkedin.com/in/danilo-lima-029bb8142/)
 - [Gustavo de Castro Costa Silva (**Scrum Master**)](https://www.linkedin.com/in/gustavocastrow/)
 - [Guilherme de Agostin (**Developer**)](https://www.linkedin.com/in/guilherme-agostin-90ba6169/)
