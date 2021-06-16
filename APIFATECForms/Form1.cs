@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.IO;
 using System.IO.Compression;
@@ -814,13 +815,23 @@ namespace APIFATECForms
                     }
                     MessageBox.Show(this, sb.ToString(), "Atributos da seleção", MessageBoxButtons.OK, MessageBoxIcon.Information, MessageBoxDefaultButton.Button1);
 
-                    // Quando os atributos do record que eu escolhi ele devolve o codigo IBGE da cidade, por exemplo... quando clicamos na cidade de Guararema 
-                    // no estado de São Paulo, em um dos atributos daquela seleção vai ser o codigo IBGE de Guararema, que é 3518305, esse valor remete aos shapefile
-                    // que a visiona quer que trabalhemos.
+                    string fileName = @"C:\Python27\example\hello_world.py";
 
-                    // Acrescentar uma funcionalidade que busque um municipio pelo nome digitado
+                    Process p = new Process();
+                    p.StartInfo = new ProcessStartInfo(@"C:\Users\Wil\Downloads\grupo02-javapastry-main\APIFATECForms\BasePath\javapastry.exe", fileName)
+                    {
+                        RedirectStandardOutput = true,
+                        UseShellExecute = false,
+                        CreateNoWindow = true
+                    };
+                    p.Start();
 
-                    // Lembrar de arrumar o center map e o zoom em todos os shapefile
+                    string output = p.StandardOutput.ReadToEnd();
+                    p.WaitForExit();
+
+                    Console.WriteLine(output);
+
+                    Console.ReadLine();
 
                 }
             }
